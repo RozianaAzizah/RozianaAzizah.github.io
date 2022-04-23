@@ -6,6 +6,6 @@ I'm Siti Roziana Azizah, and u can call me "Zia"
 This is my picture!
 
 <br>
-<img width="340" src="https://github.com/RozianaAzizah/RozianaAzizah.github.io/blob/main/foto4.jpeg" />
+<img width="340" src="https://github.com/RozianaAzizah/RozianaAzizah.github.io/blob/pages/foto4.jpeg" />
 <br>
 

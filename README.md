@@ -5,7 +5,5 @@ I'm Siti Roziana Azizah, and u can call me "Zia"
 
 This is my picture!
 
-<br>
-<a href="url"><img src="https://github.com/RozianaAzizah/RozianaAzizah.github.io/blob/main/foto4.jpeg" align="left" height="48" width="48" ></a>
-<br>
+![foto4](https://user-images.githubusercontent.com/104241503/164912248-d3583c2b-33f9-497f-9540-c2239f3cf4c3.jpeg)
 
